@@ -1,2 +1,2 @@
-*.html linguist-detectable=false
-*.Javascript linguist-detectable=false
+*.html linguist-detectable=true
+*.Javascript linguist-detectable=true
